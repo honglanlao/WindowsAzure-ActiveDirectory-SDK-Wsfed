@@ -3,10 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.microsoft.windowsazure.activedirectory.sdk.wsfed</groupId>
-	<artifactId>waad-sdk-wsfed</artifactId>
+	<artifactId>waad-federation-wsfed</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>waad-sdk-wsfed</name>
+	<name>waad-federation-wsfed</name>
 	<description>Windows Azure Active Directory federation wsfed library</description>
 
 	<dependencies>
